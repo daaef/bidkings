@@ -35,7 +35,17 @@ header{
 img{
     height: 100%;
 }
-.uk-card-primary.uk-card-body .uk-slidenav, .uk-card-primary>:not([class*=uk-card-media]) .uk-slidenav, .uk-card-secondary.uk-card-body .uk-slidenav, .uk-card-secondary>:not([class*=uk-card-media]) .uk-slidenav, .uk-light .uk-slidenav, .uk-offcanvas-bar .uk-slidenav, .uk-overlay-primary .uk-slidenav, .uk-section-primary:not(.uk-preserve-color) .uk-slidenav, .uk-section-secondary:not(.uk-preserve-color) .uk-slidenav, .uk-tile-primary:not(.uk-preserve-color) .uk-slidenav, .uk-tile-secondary:not(.uk-preserve-color) .uk-slidenav{
+.uk-card-primary.uk-card-body .uk-slidenav,
+.uk-card-primary>:not([class*=uk-card-media]) .uk-slidenav,
+.uk-card-secondary.uk-card-body .uk-slidenav,
+.uk-card-secondary>:not([class*=uk-card-media]) .uk-slidenav,
+.uk-light .uk-slidenav,
+.uk-offcanvas-bar .uk-slidenav,
+.uk-overlay-primary .uk-slidenav,
+.uk-section-primary:not(.uk-preserve-color) .uk-slidenav,
+.uk-section-secondary:not(.uk-preserve-color) .uk-slidenav,
+.uk-tile-primary:not(.uk-preserve-color) .uk-slidenav,
+.uk-tile-secondary:not(.uk-preserve-color) .uk-slidenav{
     color: #e9c907;
 }
 .bidPrice,.countdown{
@@ -59,4 +69,10 @@ img{
     background: linear-gradient(#ffdf17 63%, #887712);
     color: white;
     font-weight: 900;
+}
+.purp{
+    color:rebeccapurple;
+    font-size: 0.85em;
+    font-weight: 700;
+    height:100%;
 }

@@ -63,12 +63,12 @@ $(window).on('load', function () {
             });
         }
     });
+    let a = [$('[]')]
+    $('[bid-ctrl]').each(function () {
 
-    $('[count]').each(function () {
-        var timer2 = $(this).attr('count');
         var interval = setInterval(function() {
 
-
+            var timer2 = $(this).attr('count');
             var timer = timer2.split(':');
             //by parsing integer, I avoid all extra string processing
             var hours = parseInt(timer[0], 10);
