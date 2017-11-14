@@ -2,66 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fe50237-f4a3-4ca1-bb4f-66fa90b92ca3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Hairline.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Hairline.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Hairline.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Hairline.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Thin.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Lato-Thin.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P1/Screenshot 2017-11-02 12.15.21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P1/Screenshot 2017-11-02 12.15.33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P1/iphone-x-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P1/iphone-x-02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P1/iphone-x-03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P1/iphone-x-select-2017.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P1/iphone-x-thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P2/5773800_bd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P2/5773800_rd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P2/5773800_sd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P2/5773800cv3d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P2/5773800ld.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P2/Screenshot 2017-11-02 13.31.22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P2/flatscreen-thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P3/6002605_bd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P3/6002605_sd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P3/6002605cv11d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P3/6002605cv12d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P3/samsung-thumb-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P3/samsung-thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P4/KIA-Picanto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P4/Screenshot 2017-11-02 13.35.12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P4/Screenshot 2017-11-02 13.35.29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P4/Screenshot 2017-11-02 13.35.40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P4/car-thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P4/img_exterior1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P4/img_exterior2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P4/img_exterior3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P4/img_exterior4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/P4/img_overview1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoCrwn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoHorz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoVert.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/latofonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/latostyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.countdown.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lodash.min.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/f18bc4e8661c08116bbbd2d4f0678cb0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/iphoneX.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mira-documentation.pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
     </list>
@@ -87,21 +27,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="49" column="44" lean-forward="false" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
-              <folding />
+            <state relative-caret-position="315">
+              <caret line="96" column="69" lean-forward="false" selection-start-line="96" selection-start-column="69" selection-end-line="96" selection-end-column="69" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+            <state relative-caret-position="426">
+              <caret line="82" column="23" lean-forward="false" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -214,7 +158,7 @@
               <item name="bidkings_v1.1" type="b2602c69:ProjectViewProjectNode" />
               <item name="bidkings_v1.1" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="P3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bidkings_v1.1" type="b2602c69:ProjectViewProjectNode" />
@@ -279,12 +223,12 @@
       <workItem from="1510573736684" duration="8982000" />
       <workItem from="1510593879863" duration="13441000" />
       <workItem from="1510632489685" duration="2153000" />
-      <workItem from="1510637898057" duration="24527000" />
+      <workItem from="1510637898057" duration="26318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52076000" />
+    <option name="totallyTimeSpent" value="53867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -425,18 +369,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/img/P2/flatscreen-thumb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/P2/Screenshot 2017-11-02 13.31.22.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/P2/5773800ld.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/P2/5773800_rd.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/P2/5773800_sd.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/P2/5773800cv3d.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/P2/5773800_bd.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/P3/6002605_bd.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/P3/6002605_sd.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/P3/6002605cv11d.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="49" column="44" lean-forward="false" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+        <state relative-caret-position="315">
+          <caret line="96" column="69" lean-forward="false" selection-start-line="96" selection-start-column="69" selection-end-line="96" selection-end-column="69" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="82" column="23" lean-forward="false" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
           <folding />
         </state>
       </provider>
