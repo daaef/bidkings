@@ -2,283 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fe50237-f4a3-4ca1-bb4f-66fa90b92ca3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphoneX.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/countdown.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/flipclock.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/form-elements.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/media-queries.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ico/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/BK_mark-200x200.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/BK_mark-300x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/BK_vertical_lock-up-200x200.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/BK_vertical_lock-up-300x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/BK_vertical_lock-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/backgrounds/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/backgrounds/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/backgrounds/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/backgrounds/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/logo-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/team/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/team/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/team/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/testimonials/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/testimonials/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/testimonials/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/countdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/flipclock.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery-1.11.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery-1.11.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.backstretch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.backstretch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.countdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.countdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.ui.map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.ui.map.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/placeholder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/subscribe.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/twitter/8e52caa189eb63784d24c6705e42e8ff.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/twitter/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/twitter/jquery.tweet.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/twitter/jquery.tweet.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/twitter/lib/tmhOAuth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/twitter/lib/tmhUtilities.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/android.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/apple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/behance.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/blogger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/deviantart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/digg-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/dribbble.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/email-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/feedburner-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/flickr-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/github-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/google-plus-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/instagram-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/myspace-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/pinterest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/skype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/stumbleupon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/tumblr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/vimeo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/wordpress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/20x20/youtube-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/android.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/apple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/behance.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/blogger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/deviantart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/digg-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/dribbble.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/email-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/feedburner-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/flickr-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/github-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/google-plus-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/instagram-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/myspace-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/pinterest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/skype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/stumbleupon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/tumblr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/vimeo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/wordpress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-bg-images/40x40/youtube-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ultimate-flat-social-icons/ultm-css/ultm.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attributions/Attributions.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attributions/tweet-js-mod-license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attributions/tweet-plugin-license-MIT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/mira-documentation.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index-bk.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index-bk0.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index-bk1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index_files/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index_files/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index_files/jQuery.countdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index_files/jquery.countdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index_files/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index_files/lodash.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index_files/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/CHANGE LOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/compiled/flipclock.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/compiled/flipclock.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/compiled/flipclock.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/countdown-from-new-years-without-seconds.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/countdown-from-new-years.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/countdown-start-callback.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/countdown-stop-callback.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/countdown-to-new-years-without-seconds.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/countdown-to-new-years.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/daily-counter-countdown.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/daily-counter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/hourly-counter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/interval-callback.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/load-new-clock-face.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/localization.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/minute-counter-overflow.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/minute-counter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/multiple-instances.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/simple-countdown-autostart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/simple-counter-autostart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/simple-counter-minimum-digits.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/simple-counter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/twelve-hour-clock-custom-time.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/twelve-hour-clock-without-seconds.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/twelve-hour-clock.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/twenty-four-hour-clock-custom-time.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/twenty-four-hour-clock-without-seconds.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/examples/twenty-four-hour-clock.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/css/flipclock.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/css/flipclock.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/faces/counter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/faces/dailycounter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/faces/hourlycounter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/faces/minutecounter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/faces/twelvehourclock.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/faces/twentyfourhourclock.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/ar-ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/cs-cz.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/cz-cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/da-dk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/de-de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/en-us.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/es-es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/fa-ir.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/fi-fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/fr-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/hu-hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/it-it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/ja-jp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/ko-kr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/lv-lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/nl-be.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/no-nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/ro-ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/ru-ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/sk-sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/sv-se.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/th-th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/tr-tr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/lang/zh-tw.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/libs/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/libs/face.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/libs/factory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/libs/list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/libs/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/libs/time.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/libs/timer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/master/src/flipclock/js/vendor/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P1/Screenshot 2017-11-02 12.15.21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P1/Screenshot 2017-11-02 12.15.33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P1/iphone-x-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P1/iphone-x-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P1/iphone-x-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P1/iphone-x-select-2017.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P1/iphone-x-thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P2/5773800_bd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P2/5773800_rd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P2/5773800_sd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P2/5773800cv3d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P2/5773800ld.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P2/Screenshot 2017-11-02 13.31.22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P2/flatscreen-thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P3/6002605_bd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P3/6002605_sd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P3/6002605cv11d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P3/6002605cv12d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P3/samsung-thumb-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P3/samsung-thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P4/KIA-Picanto.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P4/Screenshot 2017-11-02 13.35.12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P4/Screenshot 2017-11-02 13.35.29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P4/Screenshot 2017-11-02 13.35.40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P4/car-thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P4/img_exterior1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P4/img_exterior2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P4/img_exterior3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P4/img_exterior4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P4/img_overview1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P5/musicbox-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P5/musicbox-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P5/musicbox-thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products/P5/musicbox.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -318,8 +42,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="127" column="20" lean-forward="false" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+            <state relative-caret-position="420">
+              <caret line="81" column="30" lean-forward="false" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -461,12 +185,12 @@
       <updated>1510562688647</updated>
       <workItem from="1510562690710" duration="2973000" />
       <workItem from="1510573736684" duration="8982000" />
-      <workItem from="1510593879863" duration="12194000" />
+      <workItem from="1510593879863" duration="13441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24149000" />
+    <option name="totallyTimeSpent" value="25396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1040" height="754" extended-state="6" />
@@ -570,8 +294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="127" column="20" lean-forward="false" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+        <state relative-caret-position="420">
+          <caret line="81" column="30" lean-forward="false" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
           <folding />
         </state>
       </provider>

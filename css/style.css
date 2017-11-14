@@ -78,6 +78,9 @@ header{
     .uk-width-1-4\@m.uk-width-1-3.uk-first-column{
         padding-left:0px
     }
+    header{
+        background-size: cover;
+    }
 }
 
 .countdown li {
